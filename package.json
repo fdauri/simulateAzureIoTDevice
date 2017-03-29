@@ -2,7 +2,7 @@
     "name": "virtualDevice",
     "version": "1.0.0",
     "description": "New Virtual Device connected to Azure IoT Hub",
-    "main": "SimulatedDevice_ActiveEnergyImp.js",
+    "main": "Alleantia_SimulateDevice_fromCSV.js",
     "scripts": {
         "test": "test"
     },
